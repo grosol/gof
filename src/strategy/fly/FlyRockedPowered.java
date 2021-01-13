@@ -1,4 +1,4 @@
-package fly;
+package strategy.fly;
 
 public class FlyRockedPowered implements FlyBehavior{
     @Override

@@ -1,7 +1,9 @@
-import duck.Duck;
-import duck.MallardDuck;
-import duck.ModelDuck;
-import fly.FlyRockedPowered;
+package strategy;
+
+import strategy.duck.Duck;
+import strategy.duck.MallardDuck;
+import strategy.duck.ModelDuck;
+import strategy.fly.FlyRockedPowered;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {
