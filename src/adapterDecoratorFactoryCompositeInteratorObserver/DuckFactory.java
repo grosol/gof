@@ -1,4 +1,4 @@
-package headfirst.combining.observer;
+package adapterDecoratorFactoryCompositeInteratorObserver;
 
 public class DuckFactory extends AbstractDuckFactory {
   

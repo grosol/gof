@@ -1,4 +1,4 @@
-package headfirst.combining.observer;
+package adapterDecoratorFactoryCompositeInteratorObserver;
 
 public class GooseAdapter implements Quackable {
 	Goose goose;

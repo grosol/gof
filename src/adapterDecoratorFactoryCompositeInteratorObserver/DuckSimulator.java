@@ -1,4 +1,4 @@
-package headfirst.combining.observer;
+package adapterDecoratorFactoryCompositeInteratorObserver;
 
 public class DuckSimulator {
 	public static void main(String[] args) {

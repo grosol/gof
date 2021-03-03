@@ -1,7 +1,7 @@
-package headfirst.combining.observer;
+package adapterDecoratorFactoryCompositeInteratorObserver;
 
-import java.util.Iterator;
 import java.util.ArrayList;
+import java.util.Iterator;
 
 public class Observable implements QuackObservable {
 	ArrayList observers = new ArrayList();

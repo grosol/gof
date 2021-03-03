@@ -1,5 +1,5 @@
-package headfirst.combining.observer;
+package adapterDecoratorFactoryCompositeInteratorObserver;
 
 public interface Quackable extends QuackObservable {
-	public void quack();
+	void quack();
 }

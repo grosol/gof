@@ -1,6 +1,6 @@
-package headfirst.combining.observer;
+package adapterDecoratorFactoryCompositeInteratorObserver;
 
 public interface QuackObservable {
-	public void registerObserver(Observer observer);
-	public void notifyObservers();
+	void registerObserver(Observer observer);
+	void notifyObservers();
 }

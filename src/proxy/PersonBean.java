@@ -1,4 +1,4 @@
-package headfirst.proxy.javaproxy;
+package proxy;
 
 public interface PersonBean {
  

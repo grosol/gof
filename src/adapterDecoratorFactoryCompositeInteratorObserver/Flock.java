@@ -1,7 +1,7 @@
-package headfirst.combining.observer;
+package adapterDecoratorFactoryCompositeInteratorObserver;
 
-import java.util.Iterator;
 import java.util.ArrayList;
+import java.util.Iterator;
 
 public class Flock implements Quackable {
 	ArrayList ducks = new ArrayList();
